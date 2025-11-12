@@ -1,0 +1,23 @@
+módulo di:
+RA1: Genera interfaces gráficos de usuario mediante editores visuales utilizando las funcionalidades del editor y adaptando el código generado.
+RA2: Genera interfaces naturales de usuario utilizando herramientas visuales.
+RA3: Crea componentes visuales valorando y empleando herramientas específicas.
+RA4: Diseña interfaces gráficas identificando y aplicando criterios de usabilidad y accesibilidad.
+RA5: crea informes evaluando y utilizando herramientas gráficas.
+RA6: Documenta aplicaciones seleccionando y utilizando herramientas específicas.
+RA7: Prepara aplicaciones para su distribución evaluando y utilizando herramientas específicas.
+RA8: Evalúa el funcionamiento de aplicaciones diseñando y  ejecutando pruebas.
+
+UT1: Fundamentos de desarrollo de interfaces graficas de usuario.
+UT2: Interfaces gráficas de usuario con VISUAL STUDIO .NET, Enlace a datos, CRUD.
+UT3: Enlace a datos Maestro-detalle, informes.
+UT4: Controles usuario.
+UT5: Genera interfaces naturales de usuario utilizando herramientas visuales.
+UT6: Proyecto final globalizador. Pruebas, ayudas y distribución 165 en total.
+
+unidades de trabajo / instrumentos de evaluación
+
+
+gestiontabladatase tablaclientesbindingsource tablaclientestableadapta tableadapte manager errorprovider tootip status strip opefiledialo printdocument
+
+

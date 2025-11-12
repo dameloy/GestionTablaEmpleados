@@ -1,0 +1,11 @@
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\bin\Debug\GestiónTablaEmpleados.exe.config
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\bin\Debug\GestiónTablaEmpleados.exe
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\bin\Debug\GestiónTablaEmpleados.pdb
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\obj\Debug\GestiónTablaEmpleados.csproj.AssemblyReference.cache
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\obj\Debug\GestiónTablaEmpleados.FormularioEmpleados.resources
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\obj\Debug\GestiónTablaEmpleados.Properties.Resources.resources
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\obj\Debug\GestiónTablaEmpleados.csproj.GenerateResource.cache
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\obj\Debug\GestiónTablaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\obj\Debug\GestiónTablaEmpleados.exe
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\obj\Debug\GestiónTablaEmpleados.pdb
+C:\Users\eloy.domjam\source\repos\GestiónTablaEmpleados\obj\Debug\GestiónTablaEmpleados.exe.config
