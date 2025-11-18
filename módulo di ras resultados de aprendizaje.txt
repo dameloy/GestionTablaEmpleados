@@ -21,3 +21,8 @@ unidades de trabajo / instrumentos de evaluación
 gestiontabladatase tablaclientesbindingsource tablaclientestableadapta tableadapte manager errorprovider tootip status strip opefiledialo printdocument
 
 
+añadir buscar, borrar editar, guardar
+navegación accion y búsqueda
+
+accion :  añadir 
+
